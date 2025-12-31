@@ -1,0 +1,6 @@
+user_id,full_name,email,is_active,created_at,last_login
+1,Alice Johnson,alice.johnson@test.com,1,2024-01-01 10:15:00,2024-01-10 09:30:00
+2,Bob Smith,bob.smith@test.com,0,2024-01-02 11:20:00,
+3,Charlie Brown,charlie.brown@test.com,1,2024-01-03 08:45:00,2024-01-12 18:10:00
+4,Divya Rao,divya.rao@test.com,1,2024-01-04 14:00:00,2024-01-14 20:45:00
+5,Ethan Kumar,ethan.kumar@test.com,0,2024-01-05 09:10:00,
